@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879664732550",
+    "firebase_url": "https://mutivideolist-default-rtdb.firebaseio.com",
+    "project_id": "mutivideolist",
+    "storage_bucket": "mutivideolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879664732550:android:a836e5a8e78249babff407",
+        "android_client_info": {
+          "package_name": "com.exetreme.mutivideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879664732550-c3jeb9v3qsh7hrbbt5532aj4nmfoksri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnO_Wy8iWWfprFzNEgyIivS1opfEplh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879664732550-c3jeb9v3qsh7hrbbt5532aj4nmfoksri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
